@@ -1,0 +1,4 @@
+applications:
+- name: stockservice
+  instances: 1
+  random-route: true
